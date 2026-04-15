@@ -1,0 +1,24 @@
+{
+  "name": "lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashraj77/Lint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashraj77/Lint/issues"
+  },
+  "homepage": "https://github.com/prakashraj77/Lint#readme",
+  "devDependencies": {
+    "eslint": "^10.2.0"
+  }
+}
